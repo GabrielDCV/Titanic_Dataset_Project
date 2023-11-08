@@ -4,3 +4,5 @@
 
 ### Conclusão
 Utilizei KFold Cross Validation, para descobrir o melhor valor de K além de deixar o modelo o menos enviesado possível, e analisei, a partir da Matriz de Confusão, as métricas do treinamento de cada modelo e fiz comparação entre as mesmas para definir qual o melhor modelo a ser utilizado neste caso.
+
+*Link para o Dataset no Kaggle: https://www.kaggle.com/c/titanic/data*
